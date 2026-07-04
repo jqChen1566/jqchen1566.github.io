@@ -1,4 +1,5 @@
 ---
+layout: guestbook
 icon: fas fa-comments
 order: 5
 comments: true
