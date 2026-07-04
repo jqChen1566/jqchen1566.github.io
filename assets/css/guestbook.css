@@ -1,0 +1,15 @@
+---
+---
+
+/* 留言板 Giscus 评论框加宽 */
+.giscus,
+.giscus-frame {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* 让评论区撑满 tail-wrapper 宽度 */
+#tail-wrapper .giscus,
+#tail-wrapper .giscus-frame {
+  min-height: 400px;
+}

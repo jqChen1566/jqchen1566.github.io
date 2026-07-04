@@ -6,6 +6,8 @@ script_includes:
 
 {% include lang.html %}
 
+<link rel="stylesheet" href="{{ '/assets/css/guestbook.css' | relative_url }}">
+
 <article class="px-1">
   {% if page.layout == 'guestbook' or page.collection == 'tabs' %}
     {% assign tab_key = page.title | downcase %}
