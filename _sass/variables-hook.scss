@@ -1,0 +1,13 @@
+/* 中文字体栈自定义
+ * Chirpy 主题字体变量覆写
+ */
+
+/* 正文字体: 优先使用思源黑体（开源、高质量中文无衬线体） */
+$font-family-base: 'Source Han Sans SC', 'Noto Sans SC', 'Microsoft YaHei',
+  'PingFang SC', 'Hiragino Sans GB', system-ui, -apple-system, sans-serif;
+
+/* 标题字体: 使用思源宋体配衬线体回退 */
+$font-family-heading: 'Source Han Serif SC', 'Noto Serif SC', 'Noto Serif CJK SC',
+  'SimSun', 'STSong', Georgia, serif;
+
+/* 代码字体保持不变 (Chirpy 默认使用等宽字体) */

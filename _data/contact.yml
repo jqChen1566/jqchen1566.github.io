@@ -1,0 +1,27 @@
+#  联系方式配置
+#  图标来自 Font Awesome: https://fontawesome.com/icons
+
+- type: github
+  icon: "fab fa-github"
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
+
+# 如需更多社交链接，取消注释并填入链接:
+#
+# - type: bluesky
+#   icon: 'fa-brands fa-bluesky'
+#   url: ''
+#
+# - type: linkedin
+#   icon: 'fab fa-linkedin'
+#   url: ''
+#
+# - type: twitter
+#   icon: 'fa-brands fa-x-twitter'
+#   url: ''
