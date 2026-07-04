@@ -147,14 +147,7 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # The option for PWA feature (installable)
-  cache:
-    enabled: false # 开发期间关闭缓存，避免旧页面被 Service Worker 拦截
-    # Paths defined here will be excluded from the PWA cache.
-    # Usually its value is the `baseurl` of another website that
-    # shares the same domain name as the current website.
-    deny_paths:
-      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+  enabled: false # 开发期间完全关闭 PWA，避免 Service Worker 干扰
 
 paginate: 10
 
