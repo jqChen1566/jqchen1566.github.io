@@ -99,8 +99,8 @@ cdn:
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/avatar.jpg
 
-# optional banner image at top of sidebar
-sidebar_banner: /assets/img/sidebar-banner.jpg
+# optional banner image at top of right panel (above "Recent Updates")
+panel_banner: /assets/img/sidebar-banner.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
