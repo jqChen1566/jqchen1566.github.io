@@ -14,12 +14,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 陈建棋 | 学术主页 # the main title
+title: 陈建棋 | 个人博客 # the main title
 
 tagline: 本科生 / 应用量子化学 / 化学信息学 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  陈建棋的个人学术主页与博客。记录应用量子化学与化学信息学的学习笔记与研究思考。
+  陈建棋的个人博客。记录应用量子化学与化学信息学的学习笔记、项目经验与研究思考。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
