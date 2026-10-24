@@ -1,7 +1,7 @@
 ---
 layout: guestbook
 icon: fas fa-comments
-order: 5
+order: 7
 comments: true
 ---
 
