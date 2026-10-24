@@ -14,7 +14,7 @@ DFT 计算表明，四丁基碘化铵（TBAI）通过改变钯物种与质子传
 
 ## 预印本
 
-Jianqi Chen, Wen Zeng, Juan Li. Charge Dominates, Configuration Modulates: Lanthanide Frontier Orbital Energetics. *ChemRxiv*, 2026. DOI: [10.26434/chemrxiv.15007502/v2](https://doi.org/10.26434/chemrxiv.15007502/v2). 预印本，未经同行评审。
+Jianqi Chen, Wen Zeng, Juan Li. Charge Dominates, Configuration Modulates: Lanthanide FrontierOrbital Energetics. *ChemRxiv*, 2026. DOI: [10.26434/chemrxiv.15007502/v2](https://doi.org/10.26434/chemrxiv.15007502/v2). 预印本，未经同行评审。
 
 本文 v1 于 2026-08-17 发布，题为 Electrostatic Dominance of Frontier Orbital Energies in Lanthanide Complexes；v2 于 2026-08-20 更新。
 
