@@ -18,4 +18,4 @@ Jianqi Chen, Wen Zeng, Juan Li. Charge Dominates, Configuration Modulates: Lanth
 
 本文 v1 于 2026-08-17 发布，题为 Electrostatic Dominance of Frontier Orbital Energies in Lanthanide Complexes；v2 于 2026-08-20 更新。
 
-随机森林模型仅使用 31 个组成描述符、不含三维坐标，预测 17,269 个镧系配合物的 HOMO 能量，五折交叉验证 MAE 为 0.159 eV（R^2^ = 0.991）；在留一元素验证中，总电荷贡献约 95% 的特征重要性。与 41,374 个 3d 配合物的对照显示，3d 体系的电荷依赖明显更弱；自旋分辨的 HOMO–LUMO gap 在 Gd^3+^（f^7^）处达到极小。
+随机森林模型仅使用 31 个组成描述符、不含三维坐标，预测 17,269 个镧系配合物的 HOMO 能量，五折交叉验证 MAE 为 0.159 eV（R<sup>2</sup> = 0.991）；在留一元素验证中，总电荷贡献约 95% 的特征重要性。与 41,374 个 3d 配合物的对照显示，3d 体系的电荷依赖明显更弱；自旋分辨的 HOMO–LUMO gap 在 Gd<sup>3+</sup>（f<sup>7</sup>）处达到极小。
